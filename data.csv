@@ -1,0 +1,42 @@
+Category,Question,Answer
+Orders,Where is my order?,You can track your package in real time through the My Orders section of your profile.
+Orders,Track my delivery,You can track your package in real time through the My Orders section of your profile.
+Orders,Order status update,You can track your package in real time through the My Orders section of your profile.
+Orders,When will my package arrive?,You can track your package in real time through the My Orders section of your profile.
+Orders,I havent received my items yet,You can track your package in real time through the My Orders section of your profile.
+Orders,Check order delivery status,You can track your package in real time through the My Orders section of your profile.
+Orders,Where can I see my order details?,Your order details are available in the My Orders section and include item names quantity and price.
+Orders,What does my order include?,Your order details are available in the My Orders section and include item names quantity and price.
+
+Payments,My payment failed,Please check your card details or contact your bank and try another payment method.
+Payments,Why was my card declined?,Please check your card details or contact your bank and try another payment method.
+Payments,Payment unsuccessful at checkout,Please check your card details or contact your bank and try another payment method.
+Payments,I am having trouble paying for my cart,Please check your card details or contact your bank and try another payment method.
+Payments,How do I pay for my order?,You can pay using card UPI or net banking at checkout.
+Payments,What payment methods are available?,You can pay using card UPI or net banking at checkout.
+Payments,How can I complete payment?,You can pay using card UPI or net banking at checkout.
+Payments,Pay for my order,You can pay using card UPI or net banking at checkout.
+
+Returns,How do I return an item?,Initiate a return within 30 days using your Order History and print a return label.
+Returns,I want a refund,Initiate a return within 30 days using your Order History and print a return label.
+Returns,Can I send this back?,Initiate a return within 30 days using your Order History and print a return label.
+Returns,Return policy and process,Initiate a return within 30 days using your Order History and print a return label.
+Returns,Wrong size received need exchange,Initiate a return within 30 days using your Order History and print a return label.
+Returns,How to exchange a product?,Initiate a return within 30 days using your Order History and print a return label.
+
+Account Issues,I forgot my password,Click Forgot Password on the login page to receive a reset link via your email.
+Account Issues,Cant log in to my account,Click Forgot Password on the login page to receive a reset link via your email.
+Account Issues,Reset my login credentials,Click Forgot Password on the login page to receive a reset link via your email.
+Account Issues,Locked out of my profile,Click Forgot Password on the login page to receive a reset link via your email.
+Account Issues,Unable to sign in,Click Forgot Password on the login page to receive a reset link via your email.
+
+Support,I need to talk to a human,Our live chat agents are available 24 7 and can connect you now.
+Support,Contact customer service,Our live chat agents are available 24 7 and can connect you now.
+Support,Help desk phone number,Our live chat agents are available 24 7 and can connect you now.
+Support,Speak with an agent,Our live chat agents are available 24 7 and can connect you now.
+Support,I have a specific problem not listed here,Our live chat agents are available 24 7 and can connect you now.
+
+Cart,How to add items to cart?,You can add items by clicking Add to Cart button on the product page.
+Cart,I can't add product to cart,Please refresh the page or check if the item is in stock.
+Cart,Add item to cart not working,Try clearing cache or using a different browser.
+Cart,Why cant I add items to cart?,Please refresh the page or check if the item is in stock.
